@@ -7,6 +7,11 @@ public class BasketballCoach implements Coach{
 		return "DO 5,000,000,000 SUICIDEEEEESS";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		return "hi";
+	}
+
 	
 	
 }
